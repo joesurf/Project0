@@ -1,0 +1,27 @@
+.search-icon.right i:first-child {
+    margin-right: 20px;  
+    color: #000;  
+  }
+  
+.search-icon.right i {
+    font-weight: bold;
+    font-size: 1.55rem;
+    cursor: pointer;
+}
+
+.search-icon.right button{
+    width:45px;
+    height:45px;
+    border:none;
+    outline:none;
+    background: transparent;
+    margin-right:60px;
+  }
+
+.search-icon.right button i{
+    color:#3322ff;  
+}
+  
+.search-icon.right button:hover i{
+    color:#0000ff;  
+}
